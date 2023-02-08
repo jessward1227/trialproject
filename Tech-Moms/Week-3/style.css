@@ -1,0 +1,24 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav {
+    border: 2px solid darkgreen;
+}
+
+main {
+    border: 2px dashed skyblue;
+}
+
+.flexparent1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flexparent2 {
+    display: flex;
+}
+
+article {
+    text-align: center;
+}
